@@ -1,4 +1,4 @@
-<фрагмент_вставки_значка>
+[![Build Status](https://app.travis-ci.com/ArinaUrnysheva/lab04.svg?token=6yYsSkpq3njxtrpS6QsX&branch=main)](https://app.travis-ci.com/ArinaUrnysheva/lab04)
 
 ```sh
 
